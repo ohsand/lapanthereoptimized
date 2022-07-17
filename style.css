@@ -827,6 +827,11 @@ h4 {
 
 /* added CSS */
 
+nav li:hover {
+    border-bottom: 1px solid #F3976C;
+    font-size: 1.3em;
+}
+
 .introtext {
     font-size: 1.4em;
     max-width: 540px;
