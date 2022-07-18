@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    /*background: url("img/texture-paper.png");*/
+    background: url("img/texture-paper.png");
     background-size: 280px 280px;
 }
 
@@ -826,6 +826,14 @@ h4 {
 }
 
 /* added CSS */
+
+.col-sm-12 h1 {
+    color: white !important;
+}
+
+.col-sm-12 h2 {
+    color: white !important;
+}
 
 nav li:hover {
     border-bottom: 1px solid #F3976C;
