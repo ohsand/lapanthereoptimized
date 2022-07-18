@@ -90,10 +90,10 @@ a:hover {
     right: 0;
 }
 
-.texture-paper::before {
+/*.texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
-}
+}*/
 
 .b-parallax {
     background-attachment: fixed;
@@ -833,6 +833,12 @@ h4 {
 
 .col-sm-12 h2 {
     color: white !important;
+}
+
+.bloc-lg h2 {
+    color: white !important;
+    opacity: 1;
+    z-index: 1000;
 }
 
 nav li:hover {
