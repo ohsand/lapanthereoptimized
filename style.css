@@ -967,6 +967,16 @@ padding: 0;
         width: 400px;
         margin: auto;
     }
+
+    .socialmedias {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+    .social {
+        padding-right: 30px;
+    }
 }
 
 @media (max-width: 991px) {
